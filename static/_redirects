@@ -179,3 +179,18 @@
 /northwest-phoenix/*  /blog/northwest-phoenix/:splat
 /orange-county/*  /blog/orange-county/:splat
 /in-the-news/*  /blog/in-the-news/:splat
+
+#Missing files are redirected to the homepage
+/Product_Catalog.cfm  /
+/Product_Catalog.cfm  /
+/sites/default/files/11_0.png  /
+/sites/default/files/12_0.png  /
+/sites/default/files/13.png  /
+/sites/default/files/4_0.png  /
+/sites/default/files/5_0.png  /
+/sites/default/files/7_0.png  /
+/sites/default/files/8_0.png  /
+/sites/default/files/nightmare_1.png  /
+/sites/default/files/nightmare_2.png  /
+/sites/default/files/nightmare_3.png  /
+/sites/default/files/untitled_design_43.png  /
