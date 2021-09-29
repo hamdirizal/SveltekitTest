@@ -1,0 +1,181 @@
+# Redirects for pages
+/home  /
+/about-us/faq/  /faq/
+/contact/  /contact-us/
+/about-us/our-story/  /about-us/
+/bookonline/  /book-online/
+/your-experience/  /how-we-work/
+
+# Redirects for landing-pages
+/download-ebook/cost-custom-glide-out-shelves/  /download-cost-of-glideout-shelves/
+/download-ebook/  /download-solutions-magazine/
+/special-offer/all-solutions-b/  /special-offer-all-solutions-b/
+/special-offer/all-solutions/  /special-offer-all-solutions/
+/special-offer/kitchen/  /special-offer-kitchen/
+/special-offer/pantry/  /special-offer-pantry/
+/special-offer/bathroom/  /special-offer-bathroom/
+/free-consult/simplifi/  /free-consult-simplifi/
+/free-consult/storage-solutions-b/  /free-consult-storage-solutions-b/
+/free-consult/storage-solutions/  /free-consult-storage-solutions/
+/free-consult/storage-solutions-c/  /free-consult-storage-solutions-c/
+/free-consult/cabinet-shelves/  /free-consult-cabinet-shelves/
+/free-consult/pull-out-pantry-shelves/  /free-consult-pull-out-pantry-shelves/
+/free-consult/pull-out-shelves-2/  /free-consult-pull-out-shelves-2/
+/free-consult/pull-out-cabinet-drawers/  /free-consult-pull-out-cabinet-drawers/
+/free-consult/kitchen-cabinet-drawers/  /free-consult-kitchen-cabinet-drawers/
+/free-consult/cabinet-pull-out-shelves/  /free-consult-cabinet-pull-out-shelves/
+/free-consult/kitchen-cabinet-shelves/  /free-consult-kitchen-cabinet-shelves/
+/free-consult/pull-out-cabinet-organizer/  /free-consult-pull-out-cabinet-organizer/
+/free-consult/cabinet-drawer-slides/  /free-consult-cabinet-drawer-slides/
+/free-consult/pull-out-pantry/  /free-consult-pull-out-pantry/
+/free-consult/pull-out-drawers-2/  /free-consult-pull-out-drawers-2/
+/free-consult/corner-cabinet-lazy-susan/  /free-consult-corner-cabinet-lazy-susan/
+/free-consult/pull-out-shelves-for-kitchen-cabinets/  /free-consult-pull-out-shelves-for-kitchen-cabinets/
+/free-consult/blind-corner/  /free-consult-blind-corner/
+/free-consult/kitchen-shelf-organizer/  /free-consult-kitchen-shelf-organizer/
+/free-consult/glide-out-shelves/  /free-consult-glide-out-shelves/
+/free-consult/lazy-susan-cabinet/  /free-consult-lazy-susan-cabinet/
+/free-consult/kitchen-cabinet-organizers/  /free-consult-kitchen-cabinet-organizers/
+/free-consult/kitchen-cabinet-storage-solutions/  /free-consult-kitchen-cabinet-storage-solutions/
+/free-consult/accessible-cabinets/  /free-consult-accessible-cabinets/
+/free-consult/drawer-cabinet/  /free-consult-drawer-cabinet/
+/free-consult/accessible-kitchen-cabinets/  /free-consult-accessible-kitchen-cabinets/
+/free-consult/bath-pull-out-cabinet/  /free-consult-bath-pull-out-cabinet/
+/free-consult/bath-pull-out-drawers/  /free-consult-bath-pull-out-drawers/
+/free-consult/blind-corner-cabinet-drawers/  /free-consult-blind-corner-cabinet-drawers/
+/free-consult/pantry-pull-out-cabinet/  /free-consult-pantry-pull-out-cabinet/
+/free-consult/blind-corner-cabinet-organizer/  /free-consult-blind-corner-cabinet-organizer/
+/free-consult/blind-corner-cabinet-shelves/  /free-consult-blind-corner-cabinet-shelves/
+/free-consult/blind-corner-cabinet-solutions-2/  /free-consult-blind-corner-cabinet-solutions-2/
+/free-consult/blind-corner-kitchen-organizer/  /free-consult-blind-corner-kitchen-organizer/
+/free-consult/blind-corner-kitchen-shelves/  /free-consult-blind-corner-kitchen-shelves/
+/free-consult/blind-corner-kitchen-solutions/  /free-consult-blind-corner-kitchen-solutions/
+/free-consult/blind-corner-pantry-solutions/  /free-consult-blind-corner-pantry-solutions/
+/free-consult/cabinet-solutions/  /free-consult-cabinet-solutions/
+/free-consult/convert-your-kitchen-cabinets/  /free-consult-convert-your-kitchen-cabinets/
+/free-consult/corner-cabinet-lazy-suzan/  /free-consult-corner-cabinet-lazy-suzan/
+/free-consult/custom-designed-storage-solutions/  /free-consult-custom-designed-storage-solutions/
+/free-consult/functional-kitchen-cabinets/  /free-consult-functional-kitchen-cabinets/
+/free-consult/innovative-cabinet-solutions/  /free-consult-innovative-cabinet-solutions/
+/free-consult/kitchen-cabinet-solutions/  /free-consult-kitchen-cabinet-solutions/
+/free-consult/kitchen-cabinet-upgrade/  /free-consult-kitchen-cabinet-upgrade/
+/free-consult/kitchen-pull-out-drawers/  /free-consult-kitchen-pull-out-drawers/
+/free-consult/kitchen-pull-out-cabinet/  /free-consult-kitchen-pull-out-cabinet/
+/free-consult/kitchen-pull-out-organizers/  /free-consult-kitchen-pull-out-organizers/
+/free-consult/kitchen-pull-out-solutions/  /free-consult-kitchen-pull-out-solutions/
+/free-consult/kitchen-pull-out-shelves/  /free-consult-kitchen-pull-out-shelves/
+/free-consult/lazy-suzan-cabinet/  /free-consult-lazy-suzan-cabinet/
+/free-consult/organize-your-cabinets/  /free-consult-organize-your-cabinets/
+/free-consult/organize-your-kitchen-cabinets/  /free-consult-organize-your-kitchen-cabinets/
+/free-consult/organize-your-pantry-cabinets/  /free-consult-organize-your-pantry-cabinets/
+/free-consult/pantry-cabinet-solutions/  /free-consult-pantry-cabinet-solutions/
+/free-consult/pantry-cabinet-storage-solutions/  /free-consult-pantry-cabinet-storage-solutions/
+/free-consult/practical-kitchen-cabinets/  /free-consult-practical-kitchen-cabinets/
+/free-consult/pantry-pull-out-solutions/  /free-consult-pantry-pull-out-solutions/
+/free-consult/pantry-pull-out-shelves/  /free-consult-pantry-pull-out-shelves/
+/free-consult/pantry-pull-out-organizers/  /free-consult-pantry-pull-out-organizers/
+/free-consult/slide-out-shelves/  /free-consult-slide-out-shelves/
+/free-consult/pantry-pull-out-drawers/  /free-consult-pantry-pull-out-drawers/
+/free-consult/pantry-shelving/  /free-consult-pantry-shelving/
+
+# Redirects for solutions
+/solutions/bath/  /solutions/bathroom/
+
+# Redirects for solution items
+/bathroom-cabinet-organizer/  /solution-items/bathroom-cabinet-organizer/
+/blind-corner-cabinet-solutions/  /solution-items/blind-corner-cabinet-solutions/
+/custom-pullout-shelving/  /solution-items/custom-pullout-shelving/
+/lazy-susan/  /solution-items/lazy-susan/
+
+# Redirects for locations
+/locations/desert-hills/  /locations/
+/locations/orange-county/  /locations/
+/locations/southatlantametro/  /locations/
+/minneapolis-st-paul/  /locations/minneapolis-st-paul/
+/locations/east-valley/  /locations/phoenix/
+/locations/west-valley/  /locations/phoenix/
+/locations/scottsdale/  /locations/phoenix/
+/locations/northwest-phoenix/  /locations/phoenix/
+/locations/southernalberta/  /locations/calgary/
+/locations/rocky-mountains/  /locations/west-denver/
+
+#Tags are redirected to search results
+/tag/*  /blog/
+
+# Blog category redirection
+/category/*  /blog/category/:splat
+
+# Redirects for blog posts without category
+/blog/shelfgenie-in-the-universal-design-living-laboratory/  /blog/in-the-news/shelfgenie-in-the-universal-design-living-laboratory/
+
+
+# Redirects for blog posts with category
+/tips-tricks/*  /blog/tips-tricks/:splat
+/solutions-designs/*  /blog/solutions-designs/:splat
+/south-atlanta-metro/*  /blog/south-atlanta-metro/:splat
+/phoenix/*  /blog/phoenix/:splat
+/calgary/*  /blog/calgary/:splat
+# Intentional southern alberta redirects to calgary
+/southern-alberta/*  /blog/calgary/:splat
+/cleveland/*  /blog/cleveland/:splat
+/des-moines/*  /blog/des-moines/:splat
+/atlanta/*  /blog/atlanta/:splat
+/omaha/*  /blog/omaha/:splat
+/tallahassee/*  /blog/tallahassee/:splat
+/austin/*  /blog/austin/:splat
+/orlando/*  /blog/orlando/:splat
+/sarasota-and-greater-tampa/*  /blog/sarasota-and-greater-tampa/:splat
+/chicago/*  /blog/chicago/:splat
+/kansas-city/*  /blog/kansas-city/:splat
+/naples/*  /blog/naples/:splat
+/west-palm-beach/*  /blog/west-palm-beach/:splat
+/milwaukee/*  /blog/milwaukee/:splat
+/indiana/*  /blog/indiana/:splat
+/long-island/*  /blog/long-island/:splat
+/greater-houston/*  /blog/greater-houston/:splat
+/edmonton/*  /blog/edmonton/:splat
+/east-tennessee/*  /blog/east-tennessee/:splat
+/the-triad-greensboro-winston-salem-high-point/*  /blog/the-triad-greensboro-winston-salem-high-point/:splat
+/the-triangle-raleigh-durham-chapel-hill/*  /blog/the-triangle-raleigh-durham-chapel-hill/:splat
+/massachusetts/*  /blog/massachusetts/:splat
+/charlotte/*  /blog/charlotte/:splat
+/birmingham/*  /blog/birmingham/:splat
+/allentown/*  /blog/allentown/:splat
+/miami/*  /blog/miami/:splat
+/maryland/*  /blog/maryland/:splat
+/metro-dc/*  /blog/metro-dc/:splat
+/cincinnati/*  /blog/cincinnati/:splat
+/columbus/*  /blog/columbus/:splat
+/connecticut/*  /blog/connecticut/:splat
+# Redirecting category with typo to the correct one
+/conneticut/*  /blog/connecticut/:splat
+/minneapolis-st-paul/*  /blog/minneapolis-st-paul/:splat
+/richmond/*  /blog/richmond/:splat
+/seattle/*  /blog/seattle/:splat
+/jacksonville/*  /blog/jacksonville/:splat
+/charleston/*  /blog/charleston/:splat
+/savannah/*  /blog/savannah/:splat
+/san-antonio/*  /blog/san-antonio/:splat
+/portland/*  /blog/portland/:splat
+/philadelphia/*  /blog/philadelphia/:splat
+/huntsville/*  /blog/huntsville/:splat
+/nashville/*  /blog/nashville/:splat
+/boise/*  /blog/boise/:splat
+/dallas-fort-worth/*  /blog/dallas-fort-worth/:splat
+/coastal-carolinas/*  /blog/coastal-carolinas/:splat
+/wasatch-range/*  /blog/wasatch-range/:splat
+/peach-state/*  /blog/peach-state/:splat
+/fort-lauderdale/*  /blog/fort-lauderdale/:splat
+/baltimore/*  /blog/baltimore/:splat
+/rocky-mountains/*  /blog/rocky-mountains/:splat
+/tulsa/*  /blog/tulsa/:splat
+/san-diego/*  /blog/san-diego/:splat
+/british-columbia/*  /blog/british-columbia/:splat
+/new-jersey/*  /blog/new-jersey/:splat
+/desert-hills/*  /blog/desert-hills/:splat
+/scottsdale/*  /blog/scottsdale/:splat
+/west-valley/*  /blog/west-valley/:splat
+/east-valley/*  /blog/east-valley/:splat
+/northwest-phoenix/*  /blog/northwest-phoenix/:splat
+/orange-county/*  /blog/orange-county/:splat
+/in-the-news/*  /blog/in-the-news/:splat
