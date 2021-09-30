@@ -5,16 +5,33 @@
 /about-us/our-story/  /about-us/
 /bookonline/  /book-online/
 /your-experience/  /how-we-work/
+/careers/corporate-jobs/  /careers/
+/careers/design-consultant/  /careers/
+/careers/installation-partner/  /careers/
+/closets/custom-closets/  /closets-custom-closets/
+/shelfgenie-solutions-magazine/  /solutions-magazine/
+/sitemap/  /
+/closetgenie-thank-you/  /
+/prototype-funnel-step-1/  /
+/download-ebook-thank-you/  /
+/kiro-thank-you-consult/  /
+/thank-you-consult/  /
+/2-thank-you/  /
+/we-got-your-appointment-request/  /
 
 # Redirects for landing-pages
 /download-ebook/cost-custom-glide-out-shelves/  /download-cost-of-glideout-shelves/
 /download-ebook/  /download-solutions-magazine/
+/discount-landing/  /special-offer-all-solutions-b/
 /special-offer/all-solutions-b/  /special-offer-all-solutions-b/
+/special-offer/  /special-offer-all-solutions-b/
 /special-offer/all-solutions/  /special-offer-all-solutions/
 /special-offer/kitchen/  /special-offer-kitchen/
 /special-offer/pantry/  /special-offer-pantry/
 /special-offer/bathroom/  /special-offer-bathroom/
 /free-consult/simplifi/  /free-consult-simplifi/
+/landing-page/  /free-consult-storage-solutions-b/
+/landing/  /free-consult-storage-solutions-b/
 /free-consult/storage-solutions-b/  /free-consult-storage-solutions-b/
 /free-consult/storage-solutions/  /free-consult-storage-solutions/
 /free-consult/storage-solutions-c/  /free-consult-storage-solutions-c/
@@ -80,6 +97,7 @@
 
 # Redirects for solutions
 /solutions/bath/  /solutions/bathroom/
+/closets/  /solutions/closets/
 
 # Redirects for solution items
 /bathroom-cabinet-organizer/  /solution-items/bathroom-cabinet-organizer/
