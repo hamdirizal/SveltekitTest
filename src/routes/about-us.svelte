@@ -7,7 +7,7 @@
 
 <section>
 	<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde fugit nihil aliquid, enim ullam, explicabo? Ipsa molestiae natus dolor ad praesentium sint corrupti laboriosam, minima in vel ab iure totam.</p>
-	<div>
+	<div style="border:2px solid red;width: 400px;height:300px;position: relative;">
 		<script src="//fast.wistia.com/embed/medias/cmhwshj929.jsonp" async></script>
 		<script src="//fast.wistia.com/assets/external/E-v1.js" async></script>
 		<div class="wistia_embed wistia_async_cmhwshj929" style="height:100%;width:100%;position:absolute;top:0;left:0"></div>
