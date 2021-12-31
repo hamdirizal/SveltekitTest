@@ -1,4 +1,4 @@
-<script>
+<script lang="ts">
 	import Foo from "../components/Foo.svelte"
 </script>
 <h1>This is about us page</h1>

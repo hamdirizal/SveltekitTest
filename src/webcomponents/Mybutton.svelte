@@ -1,4 +1,4 @@
-<script>
+<script lang="ts">
 	import { onMount } from 'svelte';
 	function buttonClicked(e){
 		console.log('clicking the buttton')
